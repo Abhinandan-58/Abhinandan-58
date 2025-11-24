@@ -8,11 +8,11 @@
 
 ---
 
-<table>
+<table style="width:100%;">
   <tr>
-    <th>Domain</th>
-    <th>Skills/Tools</th>
-    <th>Projects</th>
+    <th style="width:20%;">Domain</th>
+    <th style="width:30%;">Skills/Tools</th>
+    <th style="width:50%;">Projects</th>
   </tr>
 
   <tr>
