@@ -7,7 +7,6 @@
 
 ---
 
-## 📌 Domains, Skills & Projects
 
 | Domain                   | Skills/Tools                                      | Projects |
 |--------------------------|---------------------------------------------------|----------|
@@ -55,9 +54,6 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinandan-58&show_icons=true&locale=en&layout=compact" alt="Abhinandan-58" />
