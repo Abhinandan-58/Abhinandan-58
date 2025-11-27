@@ -16,7 +16,6 @@
 | **SCM**                  | GitHub, GitLab, CodeCommit, Mirroring             | - [GitLab-GitHub Mirroring](https://github.com/Abhinandan-58/Gitlab-Github-Mirroring-Project.git)<br>- [Github Profile](https://github.com/Abhinandan-58/Abhinandan-58.git) |
 | **Databases**            | DynamoDB, RDS                                     | - [Data Migration Using RDS](https://github.com/Abhinandan-58/Data-Migration-Using-Amazon-RDS.git) |
 
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abhinandan-58&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan-58" />
