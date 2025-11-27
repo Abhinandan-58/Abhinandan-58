@@ -2,19 +2,31 @@
 <h3 align="center">A passionate Cloud & DevOps Enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-58&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan-58" /> </p>
 
-| Domain                       | Skills/Tools                                   | Projects |
-| ---------------------------- | ---------------------------------------------- | -------- |
-| **Cloud**                    | AWS                                                       | - 
-| **Infrastructure as Code**   | Terraform                                      | - |
-| **Server Templating**        | Docker                                         | - |
-| **CI/CD**                    | AWS CodePipeline, CodeBuild, CodeDeploy        | - |
-| **Databases**                | - DynamoDB, RDS                                | - |
+| Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cloud**                    | AWS                                            | - [Three Tier Architecture with Load Balancer](https://github.com/Abhinandan-58/Three-Tier-Architecture-with-Load-Balancer.git)<br>- [Application Load Balancer ALB Project](https://github.com/Abhinandan-58/Application-Load-Balancer-ALB-Project.git)                                                                                                                                                                                                                                                    |
+                       
+| **CI/CD**                    | - AWS CodePipeline, CodeBuild, CodeDeploy ,jenkins .<br> | - 
+[Jenkins Freestyle Projec](https://github.com/Abhinandan-58/Jenkins-Freestyle-Project.git)<br> -[Nodejs App CICD Project](https://github.com/Abhinandan-58/Nodejs-App-CICD-Project.git)<br> - [Portfolio App deploy CICD](https://github.com/Abhinandan-58/Portfolio-App-deploy-CICD.git)                                                                       
+
+        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Programming Languages**    | - java<br>- JavaScript<br>- Python<br>-              | - [Student app Maven](https://github.com/Abhinandan-58/Student-app-Maven-project.git)<br> -
+[Python app](https://github.com/Abhinandan-58/python-app-.git)
+ |
+
+
+                                   |                                                                                                            
+| **SCM**                      | GitHub, Gitlab, CodeCommit,Mirroring                    | - [Gitlab-Github Mirroring](https://github.com/Abhinandan-58/Gitlab-Github-Mirroring-Project.git)<br>- [Github Profile](https://github.com/Abhinandan-58/Abhinandan-58.git)                                                                                                                                                                                                                                                                                                                              |
+
+| **Databases**                | - DynamoDB, RDS                                | - [Data Migration Using RDS](https://github.com/Abhinandan-58/Data-Migration-Using-Amazon-RDS.git)<br>  
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinandan-58&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan-58" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhinandan-patil12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
