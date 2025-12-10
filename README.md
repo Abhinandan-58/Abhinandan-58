@@ -28,6 +28,14 @@
   </tr>
 
   <tr>
+    <td><b>Infrastructure as Code</b></td>
+    <td>Terraform</td>
+    <td>
+      - <a href="https://github.com/Abhinandan-58/Static-Website-using-Terraform-Jenkins.git">Static-Website-using-Terraform-Jenkins 
+    </td>
+  </tr>
+
+  <tr>
     <td><b>CI/CD</b></td>
     <td>AWS CodePipeline, CodeBuild, CodeDeploy, Jenkins</td>
     <td>
